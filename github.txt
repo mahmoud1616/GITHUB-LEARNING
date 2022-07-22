@@ -1,0 +1,35 @@
+"cd" 
+للدخول داخل ملف
+"git status"
+ لتعرف علي ما تم اضافتة ماخرا و ما لم يتم اضافتة 
+"git add"
+لنقل الملفات الي staging area
+"git reset head"
+لاعاده الملفات الي ال worging dirctory
+"git commit"
+لنقل الملفات الي locai repo
+"git push"
+لنقل الملفات الي remote repo
+"git branch"
+يظهر جميع ال branches الموجودة
+"git remote -v"
+يظهر اسم ال remote repo
+"git pull"
+لنقل الملفات من remote الي local
+"git config --global --edit"
+"git config --global alias .br branch"
+لتعديل الاختصارات
+"git branch css"
+لانشاء branch
+"git branch -d css"
+لحذف branch
+"git checkout css"
+للذهاب الي branch
+"git checkout -b js"
+لانشاء والذهاب الي branch
+"git brunch -m"
+لتغير اسم branch
+"git stash"
+لتخزين الملفات
+"git stash pop"
+لسحب الملفات المخزنه
